@@ -45,5 +45,5 @@ aot/**/*.*
 /src/*.js
 /src/*.map
 
-/src/app/*.js
-/src/app/*.map
+/src/app/**/*.js
+/src/app/**/*.map
