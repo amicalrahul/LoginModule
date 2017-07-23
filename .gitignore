@@ -47,3 +47,5 @@ aot/**/*.*
 
 /src/app/**/*.js
 /src/app/**/*.map
+
+aot/node_modules/bootstrap/LICENSE
